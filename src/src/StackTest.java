@@ -1,5 +1,8 @@
 /**
  * Test class for Stack.
+ *
+ * @author Elias Hofbauer
+ * @version 23-02-2025
  */
 public class StackTest {
     public static void main(String[] args) {
